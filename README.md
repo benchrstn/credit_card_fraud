@@ -15,22 +15,16 @@ A machine learning approach that:
 - Achieves 88% recall - catches 88 out of every 100 frauds
 - Maintains 87% precision - minimizes customer friction
 
----
-
 ## Key Results
 - Recall: 88%
 - Precision: 87%
 - F1-Score: 0.87
-
----
 
 ## Dataset
 - **Source**: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Time Period**: 2 days cardholder transactions (September 2013)
 - **Size**: 284,807 transactions
 - **Features**: 30 (Time + 28 PCA-transformed features + Amount)
-
----
 
 ## Methodology:
 1. **Exploratory Data Analysis**:
